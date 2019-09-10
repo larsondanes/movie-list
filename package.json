@@ -1,0 +1,7 @@
+{
+  "name": "movie-list-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Larson Danes",
+  "license": "MIT"
+}
