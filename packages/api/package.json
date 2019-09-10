@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Movie-list API",
+  "main": "index.js",
+  "author": "Larson Danes",
+  "license": "MIT",
+  "dependencies": {
+    "cross-env": "5.0.5",
+    "client": "1.0.0"
+  }
+}

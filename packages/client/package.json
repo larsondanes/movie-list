@@ -1,13 +1,13 @@
 {
-  "name": "movie-list",
+  "name": "client",
   "version": "1.0.0",
-  "description": "",
+  "description": "Movie-list client",
   "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Larson Danes",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^16.9.2",
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "cross-env": "5.0.5"
   }
 }
