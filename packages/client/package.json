@@ -17,6 +17,6 @@
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "cross-env": "5.0.5"
+    
   }
 }
