@@ -6,6 +6,9 @@
   "author": "Larson Danes",
   "license": "MIT",
   "dependencies": {
-    
+    "koa": "^2.8.1"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.49"
   }
 }
