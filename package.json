@@ -3,5 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Larson Danes",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["client", "api"]
 }
