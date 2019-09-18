@@ -71,9 +71,6 @@ typings/
 .env
 .env.test
 
-# parcel-bundler cache (https://parceljs.org/)
-.cache
-
 # next.js build output
 .next
 
@@ -104,6 +101,3 @@ typings/
 .history
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
-
-# parcel compiled files dir
-packages/client/dist/
