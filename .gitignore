@@ -104,3 +104,6 @@ typings/
 .history
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
+
+# parcel compiled files dir
+.packages/client/dist/
