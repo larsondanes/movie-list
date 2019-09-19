@@ -4,9 +4,9 @@ const router = new Router();
 
 router.get("/hello-world", async (ctx) => {
     ctx.body = { 
-        author: "Larson Danes",
-        app: "movie-list",
-        message: "This is the movie list app!"
+        "author": "Larson Danes",
+        "app": "movie-list",
+        "message": "This is the movie list app!"
     };
 });
 
