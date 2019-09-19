@@ -1,16 +1,17 @@
-[33m55fb976[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Movie-list version bump from #10. Will handle all version bumps like this from now on.
-[33m58bcec9[m Create README.md
-[33m3fff5bd[m Merge pull request #10 from larsondanes/5-create-hello-world-react-component
-[33m517e1c1[m Update and rename blank.yml to version-bump-reminder.yml
-[33m40a06f9[m[33m ([m[1;31morigin/5-create-hello-world-react-component[m[33m, [m[1;32m5-create-hello-world-react-component[m[33m)[m Added @koa/cors to api, started using semver in package.json files, close #5
-[33m3bd6390[m Added gitignores for client/ and api/ to separate responsibilities
-[33m530eb37[m Actually added packages/client/dist/ to gitignore now
-[33m69fea10[m Added packages/client/dist/ to gitignore and removed dir from index
-[33m18c0440[m Merge pull request #7 from larsondanes/4-create-hello-world-endpoint
-[33m69d48fa[m[33m ([m[1;31morigin/4-create-hello-world-endpoint[m[33m, [m[1;32m4-create-hello-world-endpoint[m[33m)[m Installed koa-router, created /hello-world endpoint, imported into app.ts
-[33m74fac99[m Merge pull request #3 from larsondanes/1-create-koa-api
-[33md674698[m[33m ([m[1;31morigin/1-create-koa-api[m[33m, [m[1;32m1-create-koa-api[m[33m)[m Added 'Hello world' app.ts. Added typescript and ts-node as dev dependencies in api/. Created tsconfig and disabled module interop.
-[33m8fee2c5[m Added gitignore for node + vscode. Deleted client/node_modules from git. Added koa + koa type declarations to api/.
-[33mf8f34d4[m Removed unnecessary dependencies from child packages. Thought I needed them for yarn workspace but I do not.
-[33m8487147[m Renamed client directory. Created api directory. Think I fixed yarn workspace.
-[33mc1ed992[m Initial commit. Added react. Created hello world client app. Created yarn workspace for monorepo.
+<li> <a href="http://github.com/larsondanes/movie-list/commit/41fd2e6a0e3170471063143a1cdb4bd0fbd5a547">view commit &bull;</a> Added changelog</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/55fb9762bc59ce86f2cca41dc8e021f29b8da30d">view commit &bull;</a> Movie-list version bump from #10. Will handle all version bumps like this from now on.</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/58bcec96edd239dbb87ca2bf0eb12250d7cb6e94">view commit &bull;</a> Create README.md</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/3fff5bd9cb8208b3f944624a6208b142dc424865">view commit &bull;</a> Merge pull request #10 from larsondanes/5-create-hello-world-react-component</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/517e1c16edc17a2064cb96e3189440be08fc8a8b">view commit &bull;</a> Update and rename blank.yml to version-bump-reminder.yml</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/40a06f965839b437b42f0767b05d0bebd4ffc06a">view commit &bull;</a> Added @koa/cors to api, started using semver in package.json files, close #5</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/3bd639038de091e987044ac75c86fb1b467c25b1">view commit &bull;</a> Added gitignores for client/ and api/ to separate responsibilities</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/530eb370a7b7d627237968426a14fb01d45e2004">view commit &bull;</a> Actually added packages/client/dist/ to gitignore now</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/69fea1051177b0c5d76cd22094d10ee77a5896db">view commit &bull;</a> Added packages/client/dist/ to gitignore and removed dir from index</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/18c04404bf4985b7e37befb87272252c15d29214">view commit &bull;</a> Merge pull request #7 from larsondanes/4-create-hello-world-endpoint</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/69d48fa3d4c5bbe0cc5604d5166efd515c2ff163">view commit &bull;</a> Installed koa-router, created /hello-world endpoint, imported into app.ts</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/74fac99dba9c77586ffe7d87f4f2d279b63d526b">view commit &bull;</a> Merge pull request #3 from larsondanes/1-create-koa-api</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/d674698cc58a30943eb410fd95d2153a73c366ff">view commit &bull;</a> Added 'Hello world' app.ts. Added typescript and ts-node as dev dependencies in api/. Created tsconfig and disabled module interop.</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/8fee2c5229fd9f6bdad23576a3b0a7c24fd3c515">view commit &bull;</a> Added gitignore for node + vscode. Deleted client/node_modules from git. Added koa + koa type declarations to api/.</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/f8f34d4f9f4e189048f316206e8d247a139cf596">view commit &bull;</a> Removed unnecessary dependencies from child packages. Thought I needed them for yarn workspace but I do not.</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/8487147b3efb1f6a04bbc85c1adbec2d03085e62">view commit &bull;</a> Renamed client directory. Created api directory. Think I fixed yarn workspace.</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/c1ed992304df689d39d4fb7a49c3d0a57710f314">view commit &bull;</a> Initial commit. Added react. Created hello world client app. Created yarn workspace for monorepo.</li> 
