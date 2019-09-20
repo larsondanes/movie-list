@@ -1,4 +1,5 @@
 import * as React from "react";
+import { ReactNode } from "react";
 
 export class HelloWorld extends React.Component<{}, { error: any, isLoading: boolean, data: any}> {
     constructor(props) {
@@ -32,14 +33,21 @@ export class HelloWorld extends React.Component<{}, { error: any, isLoading: boo
 
     render() {
         const { error, isLoading, data } = this.state;
+        let content: ReactNode;
+
         if (error) {
-            return <div>Error: {error.message}</div>;
+            content ="Error: {error.message}";
         } else if (isLoading) {
-            return <div>Loading...</div>;
+            content = "Loading...";
         } else {
             console.log(data);
             
-            return JSON.stringify(data, null, 2);
+            content = <pre>{JSON.stringify(data, null, 2)}</pre>;
         }
+        return (
+        <div className="hello-world">
+            {content}
+        </div>
+        );
     }
 }
