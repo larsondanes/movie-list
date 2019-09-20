@@ -1,3 +1,5 @@
+<li> <a href="http://github.com/larsondanes/movie-list/commit/f0393505c3dbc5e55524b0ecca082524769aa3c7">view commit &bull;</a> Added yarn script for updating changelog</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/497f238bd4fc2b2fd1ee706c11570977c7ce8408">view commit &bull;</a> Fixed changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/41fd2e6a0e3170471063143a1cdb4bd0fbd5a547">view commit &bull;</a> Added changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/55fb9762bc59ce86f2cca41dc8e021f29b8da30d">view commit &bull;</a> Movie-list version bump from #10. Will handle all version bumps like this from now on.</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/58bcec96edd239dbb87ca2bf0eb12250d7cb6e94">view commit &bull;</a> Create README.md</li> 
