@@ -1,3 +1,6 @@
+<li> <a href="http://github.com/larsondanes/movie-list/commit/511cc981eab0909c8c30377a3b55fb948a1f0adb">view commit &bull;</a> version bump</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/1e2832e243031a130e849e68b011ade08c657c9e">view commit &bull;</a> Merge pull request #11 from larsondanes/changelog</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/9446a48d0e3d010246fded3d0c924392cce9a028">view commit &bull;</a> Made yarn changelog pipe into CHANGELOG.md</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/f0393505c3dbc5e55524b0ecca082524769aa3c7">view commit &bull;</a> Added yarn script for updating changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/497f238bd4fc2b2fd1ee706c11570977c7ce8408">view commit &bull;</a> Fixed changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/41fd2e6a0e3170471063143a1cdb4bd0fbd5a547">view commit &bull;</a> Added changelog</li> 
