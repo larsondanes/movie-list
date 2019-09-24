@@ -1,7 +1,13 @@
+<li> <a href="http://github.com/larsondanes/movie-list/commit/a291d34b80f40b0f97dbaa6aef9024a7057f1d01">view commit &bull;</a> Merge pull request #12 from Provinite/9-add-sass</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/02093fc8bfa30a8a787e2d97f0fbff2595119841">view commit &bull;</a> Version bumps should be separate commits on master</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/0d52c331016afd6d512d7770c533b544fea554eb">view commit &bull;</a> generate changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/511cc981eab0909c8c30377a3b55fb948a1f0adb">view commit &bull;</a> version bump</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/1e2832e243031a130e849e68b011ade08c657c9e">view commit &bull;</a> Merge pull request #11 from larsondanes/changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/9446a48d0e3d010246fded3d0c924392cce9a028">view commit &bull;</a> Made yarn changelog pipe into CHANGELOG.md</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/f0393505c3dbc5e55524b0ecca082524769aa3c7">view commit &bull;</a> Added yarn script for updating changelog</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/e4142c855b3f86d8e04c035138fa4e4752bae1f8">view commit &bull;</a> version bump</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/41c14d189ef1c2eb1adfdc771123ce94cffac78b">view commit &bull;</a> add styling to hello world component</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/72be63fc7ef8201abbb519bd762709af4fd59659">view commit &bull;</a> Add missing parcel dependency</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/497f238bd4fc2b2fd1ee706c11570977c7ce8408">view commit &bull;</a> Fixed changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/41fd2e6a0e3170471063143a1cdb4bd0fbd5a547">view commit &bull;</a> Added changelog</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/55fb9762bc59ce86f2cca41dc8e021f29b8da30d">view commit &bull;</a> Movie-list version bump from #10. Will handle all version bumps like this from now on.</li> 
