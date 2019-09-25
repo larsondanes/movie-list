@@ -5,7 +5,7 @@
   "author": "Larson Danes",
   "license": "MIT",
   "private": true,
-  "workspaces": ["client", "api"],
+  "workspaces": ["packages/*"],
   "scripts": {
     "changelog": "git log --pretty=format:'<li> <a href=\"http://github.com/larsondanes/movie-list/commit/%H\">view commit &bull;</a> %s</li> ' > CHANGELOG.md"
   }
