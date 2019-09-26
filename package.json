@@ -5,8 +5,13 @@
   "author": "Larson Danes",
   "license": "MIT",
   "private": true,
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "changelog": "git log --pretty=format:'<li> <a href=\"http://github.com/larsondanes/movie-list/commit/%H\">view commit &bull;</a> %s</li> ' > CHANGELOG.md"
+  },
+  "devDependencies": {
+    "lerna": "^3.16.4"
   }
 }
