@@ -9,7 +9,8 @@
     "packages/*"
   ],
   "scripts": {
-    "changelog": "git log --pretty=format:'<li> <a href=\"http://github.com/larsondanes/movie-list/commit/%H\">view commit &bull;</a> %s</li> ' > CHANGELOG.md"
+    "changelog": "git log --pretty=format:'<li> <a href=\"http://github.com/larsondanes/movie-list/commit/%H\">view commit &bull;</a> %s</li> ' > CHANGELOG.md",
+    "start": "yarn lerna run start --parallel"
   },
   "devDependencies": {
     "lerna": "^3.16.4"
