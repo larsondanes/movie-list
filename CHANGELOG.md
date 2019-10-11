@@ -1,3 +1,11 @@
+<li> <a href="http://github.com/larsondanes/movie-list/commit/4c8190c28a48e7b33ca408834f92533b713bf123">view commit &bull;</a> Merge pull request #17 from larsondanes/14-create-yarn-start</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/b8db7bb6342c5aedf5be81a12a4a585db2579607">view commit &bull;</a> Created yarn start script for root package</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/36d845d04dc052b4928acfd02bd3685382243a79">view commit &bull;</a> Fixed typo in lerna.json</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/19f6783b9a84f72d6818ccd774c78a294e9f48a1">view commit &bull;</a> Added lerna.json</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/38141c38680b5c4e80caab847de6eb0f9ba66e0d">view commit &bull;</a> Added lerna as dev dependency to workspace root</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/091a8832ca887294c370915bfa12fdc419dce3de">view commit &bull;</a> Created start scripts</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/d40cc0d68b0e6ec4f563c382c3eea6abad2a6984">view commit &bull;</a> Configured yarn workspace with correct child package paths</li> 
+<li> <a href="http://github.com/larsondanes/movie-list/commit/fe48d77821a752a1d25592239ce08b30b5ec891c">view commit &bull;</a> Version bump and changelog update</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/a291d34b80f40b0f97dbaa6aef9024a7057f1d01">view commit &bull;</a> Merge pull request #12 from Provinite/9-add-sass</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/02093fc8bfa30a8a787e2d97f0fbff2595119841">view commit &bull;</a> Version bumps should be separate commits on master</li> 
 <li> <a href="http://github.com/larsondanes/movie-list/commit/0d52c331016afd6d512d7770c533b544fea554eb">view commit &bull;</a> generate changelog</li> 
