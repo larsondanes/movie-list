@@ -2,6 +2,10 @@ import * as Router from "koa-router";
 
 const router = new Router();
 
+router.get("/", async (ctx) => {
+    ctx.body = "Poop and pee.";
+});
+
 router.get("/hello-world", async (ctx) => {
     ctx.body = { 
         "author": "Larson Danes",
